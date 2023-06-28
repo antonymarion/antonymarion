@@ -4,4 +4,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=antonymarion)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=antonymarion&color=green)
