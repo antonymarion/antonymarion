@@ -3,7 +3,7 @@
 ### I'm a Full-Stack Developer from France.
 
 - 💼 Currently working at [SmarterDataLabs]
-- ⚡ I'm lead-dev of [Smarterplan](https://smarterplan.io)
+- ⚡ I'm lead-dev of [Smarterplan](https://www.smarterplan.io)
 - ☕️ Ping me about **web development**, **development**, **application development**
 - 📫 Reach me: [email](mailto:antony.marion@smarterplan.io)
 
