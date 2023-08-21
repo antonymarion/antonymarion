@@ -39,7 +39,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonymarion)](https://github.com/antonymarion/github-profile-trophy)
+### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antonymarion)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonymarion)](https://github.com/antonymarion/github-profile-trophy)
 
