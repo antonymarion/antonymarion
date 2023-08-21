@@ -4,7 +4,6 @@
 
 - 💼 Currently working at [SmarterDataLabs]
 - ⚡ I'm lead-dev of [Smarterplan](https://smarterplan.io)
-- 🌍 I'm mostly active within the **application and web development Community**
 - ☕️ Ping me about **web development**, **development**, **application development**
 - 📫 Reach me: [email](mailto:antony.marion@smarterplan.io)
 
