@@ -3,7 +3,7 @@
 ### I'm a Full-Stack Developer from France.
 
 - ☕️ Ping me about **web development**, **development**, **application development**
-- 📫 Reach me: [email](mailto:antony.marion@smarterplan.io)
+- 📫 Reach me: [email](mailto:marionantony@proton.me)
 
 <hr/>
 
