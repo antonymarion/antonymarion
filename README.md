@@ -1,8 +1,8 @@
 ## Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
 
-### I'm a Full-Stack Developer from France.
+## Field of interests
 
-- ☕️ Ping me about **web development**, **development**, **application development**
+- ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **application development**
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
 
 <hr/>
