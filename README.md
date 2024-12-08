@@ -1,7 +1,5 @@
 ## Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
 
-## Field of interests
-
 - ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **application development**
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
 
