@@ -1,7 +1,7 @@
 ## Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
 
 - Currently CTO at [Drone Geofencing](https://drone-geofencing.fr)
-- CEO of an IT services company: [Cornerstone](https://corner-stone.ai)
+- CEO of an IT services company [Cornerstone](https://corner-stone.ai)
 - ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **application development**
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
 
