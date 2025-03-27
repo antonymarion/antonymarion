@@ -1,6 +1,7 @@
 # Antony MARION // [Cornerstone](https://corner-stone.ai)
 
 Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
+At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe that the language is the tool used to solve the problem.
 
 ## About Me
 
