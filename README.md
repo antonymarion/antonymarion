@@ -7,7 +7,8 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 ## About Me
 
 - Currently CTO at [Drone Geofencing](https://drone-geofencing.fr)
-- CEO of an IT services company [Cornerstone](https://corner-stone.ai)
+- Founder of <br>
+ [![](cornerstone-logo.png)](https://corner-stone.ai)
 - ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **application development**
 - Open source contributor
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
