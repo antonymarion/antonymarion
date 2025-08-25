@@ -8,7 +8,7 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 
 - Founder of <br>
  [![](cornerstone-logo.png)](https://corner-stone.ai)
-- ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **application development**
+- ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **desktop/web application development for 3D, GIS, Robotics (Drones) and Cloud**
 - Open source contributor: **OVH**, **Capacitor**, **OpenProject**, **Node OpenCascade**, **Bitwarden** (Garcia's fork)
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
 
