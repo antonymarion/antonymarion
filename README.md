@@ -33,7 +33,7 @@ Open source contributor (PRs or Issues):
 - DJI
 - Ark Electronics
 - Blue Robotics
-- Kahuna
+- Beyond Robotix
 - NanoMq
 - OvenMediaEngine
 ````
