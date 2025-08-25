@@ -8,8 +8,36 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 
 - Founder of <br>
  [![](cornerstone-logo.png)](https://corner-stone.ai)
-- ☕️ Ping me for **interim management**, **team management**, **web development**, **development**, **desktop/web application development for 3D, GIS, Robotics (Drones) and Cloud**
-- Open source contributor: **OVH**, **Capacitor**, **OpenProject**, **Node OpenCascade**, **Bitwarden** (Garcia's fork)
+
+☕️ Ping me for:
+
+````
+- CTO as a service
+- interim management
+- team management
+- web development
+- 3D (WebGL using OpenCascade, ThreeJS or BabylonJS)
+- GIS applications
+- GNSS Signal Processing
+- Robotics (Drones applications with DJI SDK and/or MavLink)
+- Cloud applications
+````
+    
+Open source contributor (PRs or Issues):
+````
+- OVH
+- Capacitor
+- OpenProject
+- Node OpenCascade
+- Bitwarden (Garcia's fork)
+- DJI
+- Ark Electronics
+- Blue Robotics
+- Kahuna
+- NanoMq
+- OvenMediaEngine
+````
+
 - 📫 Reach me: [email](mailto:marionantony@proton.me)
 
 <hr/>
