@@ -19,6 +19,7 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 - 3D (WebGL using OpenCascade, ThreeJS or BabylonJS)
 - GIS applications
 - GNSS Signal Processing
+- IOT (OPC-UA, MQTT, DDS) and IOV (QUIC over MQTT)
 - Robotics (Drones applications with DJI SDK and/or MavLink)
 - Cloud applications
 ````
