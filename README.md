@@ -16,6 +16,7 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 - interim management
 - team management
 - web development
+- mobile development
 - 3D (WebGL using OpenCascade, ThreeJS or BabylonJS)
 - GIS applications
 - GNSS Signal Processing
