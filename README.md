@@ -25,7 +25,7 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 - Cloud applications
 ````
     
-Open source contributor (PRs or Issues):
+Open source contributor (PRs, Forks and Issues):
 ````
 - OVH
 - Capacitor
