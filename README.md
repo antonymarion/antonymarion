@@ -1,4 +1,4 @@
-# Antony MARION // [Cornerstone](https://corner-stone.ai)
+# Antony MARION // [Noways](https://www.noways.io) //  [Cornerstone](https://corner-stone.ai)
 
 Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
 
@@ -6,6 +6,7 @@ At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe t
 
 ## About Me
 
+- Co-Founder & CTO of [Noways](https://www.noways.io)
 - Founder of <br>
  [![](cornerstone-logo.png)](https://corner-stone.ai)
 
