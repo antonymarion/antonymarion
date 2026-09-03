@@ -1,32 +1,38 @@
-# Antony MARION //  [Cornerstone](https://corner-stone.ai)
+# Antony MARION // [Cornerstone](https://corner-stone.ai)
 
-Hi, Nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
+Hi, nice to see you here! <img src="https://github.com/antonymarion/antonymarion/blob/main/wave.gif" width="30">
 
-At [Cornerstone](https://corner-stone.ai) we are industry agnostic and believe that the language is the tool used to solve the problem.
+**Senior Software Architect | CTO as a Service | Founder @ Cornerstone**
 
-## About Me
+Senior, polyglot engineer with a proven track record across startups and high-stakes industrial environments - **Nuclear, Aerospace, and high-intensity Gaming (FDJ)**. My career has progressively evolved from Lead Developer to CTO as a Service and Senior Architect, built on one core belief: language is just a tool to solve the problem at hand.
 
-- Founder of <br>
- [![](cornerstone-logo.png)](https://corner-stone.ai)
+At [Cornerstone](https://corner-stone.ai), we are industry-agnostic and put our technical expertise at the service of mission-critical challenges, regardless of sector or stack.
 
-☕️ Ping me for:
+---
 
-````
-- CTO as a service
-- interim management
-- team management
-- web development
-- mobile development
-- 3D (WebGL using OpenCascade, ThreeJS or BabylonJS)
-- GIS applications
-- GNSS Signal Processing
-- IOT (OPC-UA, MQTT, DDS) and IOV (MQTT over QUIC)
-- Robotics (Drones applications with DJI SDK and/or MavLink)
-- Cloud applications
-````
-    
-Open source contributor (PRs, Forks and Issues):
-````
+## 💼 Professional Support & Consulting
+
+Through [Cornerstone](https://corner-stone.ai), I help organizations evolve, secure, and structure their critical systems:
+
+- 🧭 **CTO as a Service**: strategic and technical leadership without the cost of a full-time hire
+- 🏗️ **Interim Management**: fast, effective takeover of teams or projects under pressure
+- 👥 **Engineering Team Management**: structuring, mentoring, and hiring
+- 🌐 **Web & Mobile Development**: robust applications, from design to deployment
+- 🧱 **3D & Industrial CAD**: WebGL with OpenCascade, ThreeJS, BabylonJS
+- 🗺️ **GIS Applications**
+- 📡 **GNSS Signal Processing**
+- 🔌 **IoT / IoV**: OPC-UA, MQTT, DDS, MQTT over QUIC
+- 🚁 **Robotics**: drone applications with DJI SDK and/or MAVLink
+- ☁️ **Cloud Architecture**
+
+[Contact me](mailto:marionantony@proton.me) · [Discover Cornerstone](https://corner-stone.ai)
+
+---
+
+## 🏛️ Open Source Contributions
+
+Active contributor (PRs, forks & issues) to key industry ecosystems:
+
 - OVH
 - Capacitor
 - OpenProject
@@ -36,18 +42,16 @@ Open source contributor (PRs, Forks and Issues):
 - Ark Electronics
 - Blue Robotics
 - Beyond Robotix
-- NanoMq
+- NanoMQ
 - OvenMediaEngine
-...
-````
+- ...
 
-- 📫 Reach me: [email](mailto:marionantony@proton.me)
+---
 
-<hr/>
+## 📫 Reach Me
 
-## My Stats
+[marionantony@proton.me](mailto:marionantony@proton.me)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonymarion)](https://github.com/antonymarion/github-profile-trophy)
 
 ### Frameworks, Languages & Libraries
 
